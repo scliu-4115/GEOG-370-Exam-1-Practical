@@ -1,0 +1,8 @@
+{
+"type": "FeatureCollection",
+"name": "polygon2_4326",
+"crs": { "type": "name", "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" } },
+"features": [
+{ "type": "Feature", "properties": { "id": 1, "name": "port_change" }, "geometry": { "type": "MultiPolygon", "coordinates": [ [ [ [ -71.02951526527859, 42.342178593689027 ], [ -71.025254120133368, 42.342223560772467 ], [ -71.025295039306883, 42.338391671727123 ], [ -71.029471071632983, 42.338256992879749 ], [ -71.02951526527859, 42.342178593689027 ] ] ] ] } }
+]
+}
